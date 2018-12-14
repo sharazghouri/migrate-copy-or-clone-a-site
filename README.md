@@ -73,14 +73,16 @@
 *   Start your FTP client and navigate to your WordPress root directory.
 *   Open the **wp-config.php** file with a text editor.
 *   Search for the line **define(‘DB_NAME, ‘[Your Database]’)**. The second part is your database name.
-[![Database location in wp-config](images/wp-config-file.png)](images/wp-config-file.png)
+
+[![Database location in wp-config](images/wp-config-file.PNG)](images/wp-config-file.PNG)
 
 ### Exporting Your Old Site’s Database
 * Log in to phpMyAdmin through your hosting provider.
 * Select your WordPress database by clicking it on the left-hand panel.
 * Locate the export button and click it.
 * Make sure that SQL is selected as your format and click go.
-[![Database location in wp-config](images/wp-config-file.png)](images/wp-config-file.png)
+
+![Database location in wp-config](php-myadmin-interface.jpg)](php-myadmin-interface.jpg)
 
 ### Setup and Install WordPress on Your New site
 * Download the latest version of WordPress from WordPress.org.
