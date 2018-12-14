@@ -82,7 +82,7 @@
 * Locate the export button and click it.
 * Make sure that SQL is selected as your format and click go.
 
-[![Database location in wp-config](php-myadmin-interface.jpg)](php-myadmin-interface.jpg)
+[![phpMyAdmin Interface](php-myadmin-interface.jpg)](php-myadmin-interface.jpg)
 
 ### Setup and Install WordPress on Your New site
 * Download the latest version of WordPress from WordPress.org.
@@ -105,7 +105,8 @@
 * Select the new site's WordPress database on the left-hand side.
 * Check all of the databases that appear in the main panel and click drop.
 * Click Import, click Choose File, locate your .sql file, and upload it.
-[![Drop your current database](drop-all-databases.PNG)](drop-all-databases.PNG)
+
+[![Drop your current databases](drop-all-databases.PNG)](drop-all-databases.PNG)
 
 ### Make Sure Your Database Prefix Is Correct
 * Open your wp-config.php file on your new site.
